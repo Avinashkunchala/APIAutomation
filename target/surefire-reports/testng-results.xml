@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="296" started-at="2021-06-12T07:14:20Z" finished-at="2021-06-12T07:14:20Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="296" started-at="2021-06-12T07:14:20Z" finished-at="2021-06-12T07:14:20Z">
+      <class name="com.APIAutomation.Listeners.TestNGListeners">
+        <test-method status="PASS" signature="baseURL()[pri:0, instance:com.APIAutomation.Listeners.TestNGListeners@1324409e]" name="baseURL" is-config="true" duration-ms="291" started-at="2021-06-12T07:14:20Z" finished-at="2021-06-12T07:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseURL -->
+      </class> <!-- com.APIAutomation.Listeners.TestNGListeners -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

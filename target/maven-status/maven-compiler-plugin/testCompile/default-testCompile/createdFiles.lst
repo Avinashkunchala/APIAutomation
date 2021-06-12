@@ -1,0 +1,5 @@
+com\APIAutomation\Listeners\TestNGListeners.class
+com\APIAutomation\Tests\RepoReleases.class
+com\APIAutomation\Tests\LastRelease.class
+com\APIAutomation\Tests\getAllRepos.class
+com\APIAutomation\TestBase\TestBase.class

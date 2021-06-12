@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="githubAPI">
+    <classes>
+      <class name="com.APIAutomation.Tests.LastRelease"/>
+      <class name="com.APIAutomation.Tests.RepoReleases"/>
+      <class name="com.APIAutomation.Tests.getAllRepos"/>
+    </classes>
+  </test> <!-- githubAPI -->
+</suite> <!-- Suite -->
