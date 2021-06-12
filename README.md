@@ -1,4 +1,4 @@
-Automated the GitHub API's using Rest Assured
+**Automated the GitHub API's using Rest Assured**
 
 Language : Java
 
